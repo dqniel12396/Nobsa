@@ -599,11 +599,12 @@ section {
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background-image: url('https://i.postimg.cc/Ssg0pMd4/nobsamontain.jpg'); /* Ruta a tu imagen de fondo */
+  background-image: url('https://dl.dropboxusercontent.com/scl/fi/jkftinwjq320wema4tj2h/nobsamontain.jpg?rlkey=ppoh3r4elm9w6at89ee4400yj&dl=1'); /* Ruta a tu imagen de fondo */
   background-size: cover; /* Asegura que la imagen cubra toda la sección */
   background-position: center; /* Centra la imagen en la sección */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
+
 
 .gallery{
   background-color: #568ac2;
@@ -697,11 +698,12 @@ section {
 }
 
 .why-us {
-  background-image: url('https://i.postimg.cc/Bn2nfmKG/nobsavista.jpg'); /* Ruta a tu imagen de fondo */
+  background-image: url('https://dl.dropboxusercontent.com/scl/fi/swtscnvzupjv3k3v7xq6h/nobsavista.jpg?rlkey=cqkgps6m73vi7kv4e26fi5sah&dl=1'); /* Ruta a tu imagen de fondo */
   background-size: cover; /* Asegura que la imagen cubra toda la sección */
   background-position: center; /* Centra la imagen en la sección */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
 }
+
 
 .why-us .why-box {
   padding: 30px;
@@ -1559,8 +1561,9 @@ section {
   position: relative;
   min-height: 80vh;
   padding: 160px 0 60px 0;
-  background-image: url(https://i.postimg.cc/XJm8FN7F/fondoreal.png);
+  background-image: url(https://dl.dropboxusercontent.com/scl/fi/9oups32kqbnsp23nyjqcr/fondoreal.png?rlkey=q09sz4j882jgucwbe3yatdr9z&dl=1);
 }
+
 
 .hero h2 {
   font-size: 64px;
