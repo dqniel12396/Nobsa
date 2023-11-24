@@ -599,7 +599,7 @@ section {
 # About Section
 --------------------------------------------------------------*/
 .about {
-  background-image: url('/imagess/nobsamontain.jpg'); /* Ruta a tu imagen de fondo */
+  background-image: url('https://i.postimg.cc/Ssg0pMd4/nobsamontain.jpg'); /* Ruta a tu imagen de fondo */
   background-size: cover; /* Asegura que la imagen cubra toda la sección */
   background-position: center; /* Centra la imagen en la sección */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -697,7 +697,7 @@ section {
 }
 
 .why-us {
-  background-image: url('/imagess/nobsavista.jpg'); /* Ruta a tu imagen de fondo */
+  background-image: url('https://i.postimg.cc/Bn2nfmKG/nobsavista.jpg'); /* Ruta a tu imagen de fondo */
   background-size: cover; /* Asegura que la imagen cubra toda la sección */
   background-position: center; /* Centra la imagen en la sección */
   background-repeat: no-repeat; /* Evita que la imagen se repita */
@@ -1559,7 +1559,7 @@ section {
   position: relative;
   min-height: 80vh;
   padding: 160px 0 60px 0;
-  background-image: url(/imagess/fondoreal.png);
+  background-image: url(https://i.postimg.cc/XJm8FN7F/fondoreal.png);
 }
 
 .hero h2 {
